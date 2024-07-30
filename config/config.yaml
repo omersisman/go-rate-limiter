@@ -1,0 +1,7 @@
+rate_limits:
+  endpoint1:
+    limit: 1
+    duration: 60
+  endpoint2:
+    limit: 3
+    duration: 60
